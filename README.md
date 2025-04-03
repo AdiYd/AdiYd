@@ -3,7 +3,7 @@
 - ✨ AI powered applications
 - 🌱 Check my protfolio :)
 - 💞️ Web application, Full stack and SW services 
-- 📫 Contact me @ YdDevelops@Gmail.com
+- 📫 Contact me @ Admin@webly.digital
 
 <!---
 AdiYd/AdiYd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
