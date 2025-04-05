@@ -1,5 +1,5 @@
 - 👋 Hi There, I’m @AdiYd
-- 👀 I’m a full stack Web developer and Python programmer
+- 👀 Full stack Web developer
 - ✨ AI powered applications
 - 🌱 Check my protfolio :)
 - 💞️ Web application, Full stack and SW services 
