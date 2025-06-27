@@ -11,8 +11,6 @@ https://adiyd.github.io/About
 
 Passionate developer with a strong technical background in both software and hardware engineering. I focus on creating innovative, high-quality solutions for web applications and AI-powered services, combining technical expertise with creative problem-solving.
 
-🚀 [**Check out my portfolio!**](https://adiyd.github.io/About)
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -44,11 +42,6 @@ Passionate developer with a strong technical background in both software and har
 ### AI Integration
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-0000FF?style=for-the-badge&logo=anthropic&logoColor=white)
-
-## 🎓 Education
-- **B.Sc. Electrical & Electronics Engineering** - Tel Aviv University
-- **AI Engineering for Developers** - Coursera
-- **Advanced React & Next.js Development** - Udemy
 
 ## 🌟 Highlights
 
