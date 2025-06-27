@@ -48,7 +48,7 @@ Passionate developer with a strong technical background in both software and har
 - 🧠 AI-powered web applications and integrations
 - 🌐 Modern, responsive UI with advanced frameworks
 - ⚡ Full-stack development with focus on scalability
-- 🔧 Hardware background bringing unique perspective to software solutions
+- 🔧 Developer, R&D and smart solutioins
 
 ## 📫 Connect with Me
 
