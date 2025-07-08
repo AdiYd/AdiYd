@@ -1,6 +1,6 @@
 # Adi Yehuda - About
 
-You can see this page at:
+You can see my about page at:
 https://adiyd.github.io/About
 
 <div align="center">
