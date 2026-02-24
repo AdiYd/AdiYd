@@ -1,33 +1,5 @@
-# Adi Yehuda - About
-
-You can see this page at:
-https://adiyd.github.io/About
-
-This project is a React-based about page for Adi Yehuda. It showcases my skills, education, experience, and contact information in a clean and interactive format.
-
-## Features
-
-*   **Interactive About page:** A dynamic and visually appealing About page with my experiences, skills and education built with React.
-*   **Skills Showcase:** Highlights key technical skills with FontAwesome icons.
-*   **Responsive Design:** Adapts to different screen sizes for optimal viewing on various devices.
-*   **Contact Information:** Easy access to contact details via email, LinkedIn, and WhatsApp.
-
-## Technologies Used
-
-*   React
-*   react-dom
-*   react-to-pdf
-*   @fortawesome/fontawesome-svg-core
-*   @fortawesome/free-brands-svg-icons
-*   @fortawesome/free-solid-svg-icons
-*   @fortawesome/react-fontawesome
-*   @framer-motion
-*   @Tailwindcss
-*   @daisyUI
-*   CSS
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=120&lines=Hi%2C I'm Adi %F0%9F%91%8B;Application Engineer;Web and mobile Applications;AI integration;Software architecture;Hands on Full stack Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=120&lines=Hi%2C+I'm+Adi+%F0%9F%91%8B;Application+Engineer;Web+and+mobile+Applications;AI+integration;Software+architecture;Hands+on+Developer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
